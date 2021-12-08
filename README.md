@@ -3,7 +3,7 @@
 ## Colab link 
 https://colab.research.google.com/drive/1BKOHz4jMNww2vM83LUjaBgRNLdx63ecq?usp=sharing
 
-![]op1.png
+![](https://github.com/t-v-k-git/AI-drawing/blob/main/op2.png)
 
 ![]op2.png
 
